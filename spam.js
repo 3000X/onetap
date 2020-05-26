@@ -1,7 +1,8 @@
 /// Script for spam word in online game.
 
 var g_LastSendMessageTime = 0;
-
+UI.AddLabel("Create by 3000X");
+UI.AddLabel("  ");
 function onCreateMove()
 {
     if(!UI.GetValue("MISC", "JAVASCRIPT", "Script Items", "Enable chat spammer"))
