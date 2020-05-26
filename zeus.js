@@ -1,4 +1,4 @@
-///ZEUS RANGE
+///ZEUS HIT CHANCE 
 
 UI.AddCheckbox("ZeusHitchance"); 
 UI.AddSliderFloat("Hitchance", 1, 100);
