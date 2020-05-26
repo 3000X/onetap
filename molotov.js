@@ -1,6 +1,6 @@
 /// MOLOTOV RANGE + CUSTOM COLOR RADIUS
 UI.AddLabel("Create by 3000X");
-UI.AddLabel("- - - -");
+UI.AddLabel("  ");
 
 function radians_to_degrees( radians ) {
     return radians * ( 180 / Math.PI );
