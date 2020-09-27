@@ -4,7 +4,7 @@ var firstBuy = 0;
 var alias = [
     ["awp"],
     ["ssg08"],
-    ["scar20", "g3sg1"]
+    ["scar20", "g3sg1"] // Weapons Names
 ]
 
 function roundEnded() {
